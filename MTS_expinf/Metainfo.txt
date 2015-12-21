@@ -18,9 +18,8 @@ Submitted :
 
 Datafile : 'IEdata.RData'
 
-
 Example :
-- 'The model-implied three-year (red) and five-year(blue dashed) forecast of IE for 
+- 1: 'The model-implied three-year (red) and five-year(blue dashed) forecast of IE for 
 each European country.'
-- 'The comparison of estimated IE forecast across five different countries - U.K. (red), 
-Germany (blue), France (black), Italy (green) and Sweden (grey). '
+- 2: 'The comparison of estimated IE forecast across five different countries - U.K. (red), 
+Germany (blue), France (black), Italy (green) and Sweden (grey).'
