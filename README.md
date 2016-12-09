@@ -1,5 +1,5 @@
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[MTS_BEIR](https://github.com/QuantLet/MTS/tree/master/MTS_BEIR)**
 
@@ -29,7 +29,6 @@ jointly for each country. The Nelson-Siegel model is popular in fitting the term
 we proposed is the extension of the arbitrage-free dynamic Nelson-Siegel model proposed by Christensen (2010). We discover that the extracted 
 common trend for inflation expectation is an important driver for each country of interest. Moreover, the model will lead to an 
 improved forecast in a benchmark level of inflation and will provide good implications for financial markets.
-
 
 ### Here you see some plots from this repository:
 
