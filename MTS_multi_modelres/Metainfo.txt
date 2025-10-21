@@ -3,8 +3,7 @@ Name of QuantLet : MTS_multi_modelres
 
 Published in : MTS
 
-Description : 'Plots the model residuals estimated from AFNS model in 
-a multi-maturity term structue for all the five sample countries.'
+Description : 'Plots the model residuals estimated from AFNS model in a multi-maturity term structue for all the five sample countries.'
 
 Keywords : 'bond, error, estimation, graphical representation, plot, returns'
 
@@ -13,7 +12,7 @@ MTS_comexpinf_cds, MTS_comexpinf, MTS_expinf'
 
 Author : Shi Chen
 
-Submitted :
+Submitted : 30.10.2015
 
 Datafile : 'joide0915ans.RData, joifr0915ans.RData, joiit0715ans.RData, 
 joisw0714ans.RData, joiuk0915ans.RData'
