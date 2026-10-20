@@ -9,20 +9,20 @@ Name of QuantLet: MTS_afns_it
 
 Published in: MTS
 
-Description: Shows the estimation results derived from the AFNS model
+Description: Shows the estimation results derived from the AFNS model in a multi-maturity term structure for Italy. Graphic showing the filtered and predicted state variables.
 
-Keywords: bond, graphical representation, plot, time-series,
+Keywords: bond, graphical representation, plot, time-series, visualization
 
 See also: MTS_afns_de, MTS_afns_uk, MTS_afns_fr, MTS_afns_sw
 
 Author: Shi Chen
 
-Submitted: 
+Submitted: 30.10.2015
 
 Datafile: italy_inf.csv, italy_nom.csv
 
 Example: 
-- 'The estimated four latent factors of state variable for Italy. The
+- The estimated four latent factors of state variable for Italy. The predicted are presented as line type and the filtered are dashed.
 
 ```
 <div align="center">
