@@ -9,20 +9,21 @@ Name of QuantLet: MTS_expinf
 
 Published in: MTS
 
-Description: Compares the estimated three-year and five-year forecast
+Description: Compares the estimated three-year and five-year forecast of IE for each European country. The inflation expectation (IE) is estimated by model-implied BEIR and plotted in gray.
 
-Keywords: bond, curve, estimation, graphical representation, plot, term structure,
+Keywords: bond, curve, estimation, graphical representation, plot, term structure, visualization
 
-See also: MTS_afns_de, MTS_afns_fr, MTS_afns_it, MTS_afns_sw, MTS_afns_uk,
+See also: MTS_afns_de, MTS_afns_fr, MTS_afns_it, MTS_afns_sw, MTS_afns_uk, MTS_comexpinf_cds, MTS_comexpinf
 
 Author: Shi Chen
 
-Submitted: 
+Submitted: 30.10.2015
 
 Datafile: IEdata.RData
 
 Example: 
-- 1: 'The model-implied three-year (red) and five-year(blue dashed) forecast of IE for
+- 1: 'The model-implied three-year (red) and five-year(blue dashed) forecast of IE for each European country.'
+- 2: 'The comparison of estimated IE forecast across five different countries - U.K. (red), Germany (blue), France (black), Italy (green) and Sweden (grey).'
 
 ```
 <div align="center">
