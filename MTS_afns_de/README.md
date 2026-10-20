@@ -9,20 +9,20 @@ Name of QuantLet: MTS_afns_de
 
 Published in: MTS
 
-Description: Shows the estimation results derived from the AFNS model
+Description: Shows the estimation results derived from the AFNS model in a multi-maturity term structure for Germany. Graphic showing the filtered and predicted state variables.
 
-Keywords: bond, graphical representation, plot, time-series,
+Keywords: bond, graphical representation, plot, time-series, visualization
 
 See also: MTS_afns_fr, MTS_afns_uk, MTS_afns_it, MTS_afns_sw
 
 Author: Shi Chen
 
-Submitted: 
+Submitted: 30.10.2015
 
 Datafile: deinf.csv, denom.csv
 
 Example: 
-- 'The estimated four latent factors of state variable for Germany. The
+- The estimated four latent factors of state variable for Germany. The predicted are presented as line type and the filtered are dashed.
 
 ```
 <div align="center">
